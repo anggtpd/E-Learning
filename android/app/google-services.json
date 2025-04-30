@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532168701675",
+    "project_id": "e-learning-project-anggita",
+    "storage_bucket": "e-learning-project-anggita.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532168701675:android:f79e981ef2c3c09d47b0ae",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bloc_template"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqIMBRdkjBPantMoytdigCPcZal9a1gug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
